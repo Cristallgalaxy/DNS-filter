@@ -1,0 +1,9 @@
+/home/pingyuan/code/dns_parse/build/CMakeFiles/dns_parse.dir
+/home/pingyuan/code/dns_parse/build/CMakeFiles/test-conf.dir
+/home/pingyuan/code/dns_parse/build/CMakeFiles/uninstall-conf.dir
+/home/pingyuan/code/dns_parse/build/CMakeFiles/edit_cache.dir
+/home/pingyuan/code/dns_parse/build/CMakeFiles/rebuild_cache.dir
+/home/pingyuan/code/dns_parse/build/CMakeFiles/list_install_components.dir
+/home/pingyuan/code/dns_parse/build/CMakeFiles/install.dir
+/home/pingyuan/code/dns_parse/build/CMakeFiles/install/local.dir
+/home/pingyuan/code/dns_parse/build/CMakeFiles/install/strip.dir

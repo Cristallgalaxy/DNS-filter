@@ -1,0 +1,48 @@
+
+google.com A
+youtube.com A
+facebook.com A
+baidu.com A
+wikipedia.org A
+twitter.com A
+instagram.com A
+linkedin.com A
+apple.com A
+microsoft.com A
+
+qq.com A
+taobao.com A
+jd.com A
+weibo.com A
+sina.com.cn A
+zhihu.com A
+bilibili.com A
+douyin.com A
+xiaomi.com A
+huawei.com A
+
+github.com A
+gitlab.com A
+stackoverflow.com A
+docker.com A
+kubernetes.io A
+redis.io A
+mysql.com A
+nginx.org A
+python.org A
+golang.org A
+
+mail.google.com A
+drive.google.com A
+maps.google.com A
+api.github.com A
+cdn.amazon.com A
+img.youtube.com A
+static.facebook.com A
+shop.apple.com A
+news.bbc.co.uk A
+weather.com A
+
+thissitedoesnotexist123.com A
+fake-test-domain-xyz.com A
+invalid-query-test-abc.com A
